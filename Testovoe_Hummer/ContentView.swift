@@ -76,7 +76,7 @@ struct ContentView: View {
                 }
 
             }
-            //pizza columns
+            //pizza column
             ScrollView(.vertical,showsIndicators: false){
                 VStack{
                     VStack{
